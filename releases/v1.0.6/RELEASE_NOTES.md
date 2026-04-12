@@ -1,8 +1,8 @@
-# GoblinTerm Release Notes (Next)
+# GoblinTerm Release Notes - v1.0.6
 
-Status: Draft (pre-release)
-Target version: TBD
-Release date: TBD
+Status: Released
+Target version: 1.0.6
+Release date: 2026-04-11
 
 ## Summary
 
@@ -57,21 +57,12 @@ This release focuses on native terminal stability and correctness improvements v
 
 ## Build Artifacts
 
-Use the release script:
+Build command used:
 
 powershell
-./build-release.ps1 -Version <version>
+./build-release.ps1 -Version 1.0.6
 
-Expected output:
+Published artifacts:
 
-- release/GoblinTerm-v<version>-win64/
-- release/GoblinTerm-v<version>-win64.zip
-- release/GoblinTerm-v<version>-win64-SHA256.txt
-
-## Notes for Final Cut
-
-Before publishing, update this file:
-
-- Replace target version and date.
-- Move confirmed fixes from "Known Issues" to "Fixed".
-- Remove any troubleshooting-only notes that should not appear in public release notes.
+- releases/v1.0.6/GoblinTerm-v1.0.6-win64.zip
+- releases/v1.0.6/GoblinTerm-v1.0.6-win64-SHA256.txt
