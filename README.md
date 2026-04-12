@@ -13,6 +13,12 @@ Head to the [**Releases**](../../releases/latest) page and download the latest `
 1. Extract the ZIP to any folder
 2. Run `GoblinTerm.exe`
 
+Latest staged release in this repo:
+
+- `releases/v1.0.6/GoblinTerm-v1.0.6-win64.zip`
+- `releases/v1.0.6/GoblinTerm-v1.0.6-win64-SHA256.txt`
+- `releases/v1.0.6/RELEASE_NOTES.md`
+
 ---
 
 ## Features
