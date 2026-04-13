@@ -79,6 +79,22 @@ This makes it useful for homelab, network administration, infrastructure support
 
 ---
 
+## Screenshots
+
+### Session Library And Workspace Layout
+
+![GoblinTerm main workspace](screenshots/app-start.png)
+
+### Multi-Tab Terminal Workflow
+
+![GoblinTerm multi-tab terminal view](screenshots/multi-tab-sessions.png)
+
+### Macro Actions And Multi-Session Operations
+
+![GoblinTerm macro context actions](screenshots/right-click-macro-button.png)
+
+---
+
 ## Portable App Notes
 
 - GoblinTerm is distributed as a portable Windows application
